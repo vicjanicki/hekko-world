@@ -1,2 +1,2 @@
-# hekko-world
+# hello-world
 introductory demo
